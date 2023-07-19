@@ -1,7 +1,7 @@
 # TextUtils
 A tool for analyzing text data in Django backend
 
-It is a simple django project or website in which we can Analyze text.
+It is a simple django project in which we can Analyze text.
 
 <h1>What Can We do from Textutils ?</h1>
 1)Remove Punctuations<br>
@@ -10,6 +10,3 @@ It is a simple django project or website in which we can Analyze text.
 4)Extra Spaces Remover<br>
 5)Numbers Remover
 
-<h1>Requirements</h1>
-python3<br>
-django<br>
